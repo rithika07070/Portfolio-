@@ -9,7 +9,7 @@
 
 body {
     height: 100vh;
-    background:url("Image/new.png") no-repeat center / cover ;
+    background:url("bg.jpg") no-repeat center / cover ;
     padding: 50px;
 }
 .Container {
